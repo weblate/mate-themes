@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
 # This file is distributed under the same license as the mate-themes package.
-# 
+#
 # Translators:
 # Artis Trops <hornet@navigator.lv>, 2002
 # reki the human <voiceofwise1@gmail.com>, 2020
@@ -9,19 +9,22 @@
 # Rihards Priedītis <rprieditis@gmail.com>, 2013
 # Rūdolfs Mazurs <rudolfs.konts@rjam.id.lv>, 2010
 # Rūdolfs Mazurs <rudolfs.konts@rjam.id.lv>, 2010
+# Rihards Prieditis <rprieditis@gmail.com>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://mate-desktop.org\n"
 "POT-Creation-Date: 2022-10-29 15:36+0200\n"
-"PO-Revision-Date: 2012-04-04 15:45+0000\n"
-"Last-Translator: Rūdolfs Mazurs <rudolfs.konts@rjam.id.lv>, 2010\n"
-"Language-Team: Latvian (http://app.transifex.com/mate/MATE/language/lv/)\n"
+"PO-Revision-Date: 2026-11-19 09:18+0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
+"Language-Team: Latvian <https://translate.fedoraproject.org/projects/mate-"
+"desktop/applications/mate-themes/lv/>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lv\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: cursor-themes/mate-black/index.theme.in:3
 msgid "MATE (Black)"
@@ -33,7 +36,7 @@ msgstr "BlackMATE"
 
 #: desktop-themes/BlackMATE/index.theme.in:5
 msgid "A clean dark theme"
-msgstr "Tīra tumša tēma"
+msgstr "Tīrs, tumšs motīvs"
 
 #: desktop-themes/BlueMenta/index.theme.in:4
 msgid "BlueMenta"
@@ -41,7 +44,7 @@ msgstr "BlueMenta"
 
 #: desktop-themes/BlueMenta/index.theme.in:5
 msgid "A clean light theme with blue elements"
-msgstr "Tīra gaismas tēma ar ziliem elementiem"
+msgstr "Tīrs, gaišs motīvs ar ziliem elementiem"
 
 #: desktop-themes/Blue-Submarine/index.theme.in:4
 msgid "Blue-Submarine"
@@ -49,7 +52,7 @@ msgstr "Blue-Submarine"
 
 #: desktop-themes/Blue-Submarine/index.theme.in:5
 msgid "A medium blue theme with dark menus and panel"
-msgstr "Vidēji zila tēma ar tumšu izvēlni un paneli"
+msgstr "Vidēji zils motīvs ar tumšām izvēlnēm un paneli"
 
 #: desktop-themes/ContrastHigh/index.theme.in:4
 msgid "High Contrast"
@@ -57,15 +60,15 @@ msgstr "Augsta kontrasta"
 
 #: desktop-themes/ContrastHigh/index.theme.in:5
 msgid "High contrast theme"
-msgstr "Augsta kontrasta tēma"
+msgstr "Augsta kontrasta motīvs"
 
 #: desktop-themes/HighContrastInverse/index.theme.in:4
 msgid "High Contrast Inverse"
-msgstr "Augsta kontrasta invertēta"
+msgstr "Augsta kontrasta, inversais"
 
 #: desktop-themes/HighContrastInverse/index.theme.in:5
 msgid "White-on-black text and icons"
-msgstr "Balts uz melna teksts un ikonas"
+msgstr "Balts teksts un ikonas uz melna fona"
 
 #: desktop-themes/GreenLaguna/index.theme.in:4
 msgid "GreenLaguna"
@@ -73,7 +76,7 @@ msgstr "GreenLaguna"
 
 #: desktop-themes/GreenLaguna/index.theme.in:5
 msgid "A clean light green theme"
-msgstr "Tīrs gaiši zaļš temats"
+msgstr "Tīrs, gaiši zaļš motīvs"
 
 #: desktop-themes/Green-Submarine/index.theme.in:4
 msgid "Green-Submarine"
@@ -81,7 +84,7 @@ msgstr "Green-Submarine"
 
 #: desktop-themes/Green-Submarine/index.theme.in:5
 msgid "A medium green theme with dark menus and panel"
-msgstr "Vidēji zaļa tēma ar tumšu izvēlni un paneli"
+msgstr "Vidēji zaļš motīvs ar tumšām izvēlnēm un paneli"
 
 #: desktop-themes/Menta/index.theme.in:4
 msgid "Menta"
@@ -89,7 +92,7 @@ msgstr "Menta"
 
 #: desktop-themes/Menta/index.theme.in:5
 msgid "A clean light theme with green elements"
-msgstr "Tīra gaismas tēma ar zaļiem elementiem"
+msgstr "Tīrs, gaišs motīvs ar zaļiem elementiem"
 
 #: desktop-themes/TraditionalGreen/index.theme.in:4
 msgid "TraditionalGreen"
@@ -97,7 +100,7 @@ msgstr "Tradicionālais zaļais"
 
 #: desktop-themes/TraditionalGreen/index.theme.in:5
 msgid "Green port of Clearlooks-Phenix"
-msgstr "Clearlooks-Phenix zaļa versija"
+msgstr "Clearlooks-Phenix zaļā versija"
 
 #: desktop-themes/TraditionalOk/index.theme.in:4
 msgid "TraditionalOk"
@@ -105,7 +108,7 @@ msgstr "TraditionalOk"
 
 #: desktop-themes/TraditionalOk/index.theme.in:5
 msgid "Port of Clearlooks-Phenix"
-msgstr "Clearlooks-Phenix"
+msgstr "Clearlooks-Phenix versija"
 
 #: icon-themes/ContrastHigh/index.theme.in:3
 msgid "ContrastHigh"
@@ -113,4 +116,4 @@ msgstr "ContrastHigh"
 
 #: icon-themes/ContrastHigh/index.theme.in:4
 msgid "ContrastHigh Icon Theme"
-msgstr "ContrastHigh ikonas tēma"
+msgstr "ContrastHigh ikonu motīvs"
